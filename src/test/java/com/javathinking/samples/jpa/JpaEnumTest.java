@@ -1,4 +1,4 @@
-package com.vamonossoftware.samples.jpa;
+package com.javathinking.samples.jpa;
 
 import org.junit.Test;
 import org.springframework.test.context.ContextConfiguration;

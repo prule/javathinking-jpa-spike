@@ -1,4 +1,4 @@
-package com.vamonossoftware.samples.jpa;
+package com.javathinking.samples.jpa;
 
 public enum Role {
     User, Manager, Admin

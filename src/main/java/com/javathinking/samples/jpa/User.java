@@ -1,4 +1,4 @@
-package com.vamonossoftware.samples.jpa;
+package com.javathinking.samples.jpa;
 
 import javax.persistence.*;
 import java.util.ArrayList;
